@@ -1,6 +1,4 @@
-Here's a `README.md` file for your project:
 
-```markdown
 # Future Value Calculator for Growing Monthly Investments
 
 ## Overview
