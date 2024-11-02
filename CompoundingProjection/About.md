@@ -31,8 +31,8 @@ Assume:
 - Initial Monthly Investment: 45,000 INR
 - Annual Increment Percentage: 10%
 - Investment Duration: 6 years
-- CAGR Low Estimate: 20% (0.20)
-- CAGR High Estimate: 22% (0.22)
+- CAGR Low Estimate: 20% 
+- CAGR High Estimate: 22% 
 
 Running the program with these inputs will provide the estimated total investment values under both the 20% and 22% CAGR scenarios.
 
