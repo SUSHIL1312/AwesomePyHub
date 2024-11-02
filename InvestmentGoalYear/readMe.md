@@ -9,6 +9,7 @@ The Investment Goal Years Calculator is a Python program designed to help indivi
 - **Dynamic Growth Calculation**: Automatically adjusts the investment amount each year based on the specified percentage increase.
 - **Compound Growth Estimation**: Utilizes the Compound Annual Growth Rate (CAGR) to estimate the future value of investments.
 - **Target Achievement Calculation**: Accurately calculates the number of years required to meet a financial goal.
+- **Total Investment Calculation**: Provides the total amount invested over the years until the target is achieved.
 
 ## How It Works
 The program calculates the years required to achieve a specified target amount by:
@@ -16,6 +17,7 @@ The program calculates the years required to achieve a specified target amount b
 2. **Compounding Growth**: It applies the expected CAGR to the total amount at the end of each year.
 3. **Incremental Investments**: It increases the monthly investment amount by a specified percentage annually.
 4. **Yearly Loop**: Continues this process until the total amount reaches or exceeds the target amount.
+5. **Investment Tracking**: Tracks the total amount invested throughout the investment period.
 
 ## Use Cases
 This tool is useful for:
@@ -50,6 +52,7 @@ Enter the target amount to achieve (in INR): 1000000
 ### Output
 ```plaintext
 You will need approximately 7 years to achieve the target amount.
+Total amount invested over these years: 820000.00 INR.
 ```
 
 ## Getting Started
