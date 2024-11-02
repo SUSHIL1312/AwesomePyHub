@@ -51,7 +51,7 @@ Enter the annual increment percentage: 10
 Enter the duration of investment in years: 6
 Enter the low estimate of CAGR (as a decimal, e.g., 20 for 20%): 20
 Enter the high estimate of CAGR (as a decimal, e.g., 22 for 22%): 22
-Enter the number of months in a year (usually 12): 12
+
 ```
 
 Output:
