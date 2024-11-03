@@ -50,6 +50,28 @@ Contributions are welcome! If you have an awesome Python project that you’d li
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Tags
+Enhance discoverability with these tags! 🌟
+
+- **General Python Tags**:
+  - `Python`
+  - `Python3`
+  - `Python-Projects`
+  - `Awesome-Python`
+  - `Python-Repository`
+- **Additional Topics and Technologies**:
+  - `Data-Science`
+  - `Machine-Learning`
+  - `Automation`
+  - `SaaS`
+  - `Open-Source`
+
+- **Popular & Trending Tags**:
+  - `Beginner-Friendly`
+  - `Awesome`
+  - `For-Beginners`
+  - `Projects`
+
 ## 💬 Contact
 
 For questions, suggestions, or collaborations, feel free to reach out in Issue section.
