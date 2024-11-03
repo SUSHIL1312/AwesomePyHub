@@ -24,5 +24,5 @@ total_value_low = calculate_future_value(cagr_low, initial_investment, annual_in
 total_value_high = calculate_future_value(cagr_high, initial_investment, annual_increment_percent, years, months_per_year)
 
 # Display the results
-print(f"Total investment Corpus value at {cagr_low * 100}% CAGR: {total_value_low:.2f} INR")
-print(f"Total investment Coupus value at {cagr_high * 100}% CAGR: {total_value_high:.2f} INR")
+print(f"Total investment Corpus value at {cagr_low * 100:.2f}% CAGR: {total_value_low:.2f} INR")
+print(f"Total investment Coupus value at {cagr_high * 100:.2f}% CAGR: {total_value_high:.2f} INR")
